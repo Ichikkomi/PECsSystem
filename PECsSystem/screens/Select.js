@@ -4,7 +4,7 @@ import { StyleSheet, Text, View } from 'react-native';
 export default function Select() {
   return (
     <View style={styles.container}>
-      <Text>This is Select Deck</Text>
+      <Text> Select Deck here </Text>
       <StatusBar style="auto" />
     </View>
   );
